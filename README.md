@@ -1,15 +1,13 @@
-# 👋 Hey, I'm João Pedro Orem de Moura (Konkvon)
+# Hi, I'm João Pedro Orem de Moura (Konkvon)
 
-🎓 **Front-end & Python Developer** — currently finishing *Sistema da informação*.  
-💻 Passionate about building efficient, scalable, and accessible web apps.
-
----
 
 ## 🚀 About Me
-- 🧠 Learning advanced **Python & Django** for back-end development  
-- ⚙️ Experienced with **Angular**, **SQLite**, and modern front-end design  
-- 💡 Built real projects for NGOs like **APAE** and **IAKAP**  
-- 🎯 Goal: specialize in **Python back-end** and scalable system architecture
+🎓 **Front-end & Python Developer** — currently finishing *Sistema da informação*.  
+💻 Passionate about building efficient, scalable, and accessible web apps.
+🧠 Learning advanced **Python & Django** for back-end development  
+⚙️ Experienced with **Angular**, **SQLite**, and modern front-end design  
+💡 Built real projects for NGOs like **APAE** and **IAKAP**  
+🎯 Goal: specialize in **Python back-end** and scalable system architecture
 
 ---
 
