@@ -49,5 +49,5 @@
 
 ## 📫 Contact
 - GitHub: [@Konkvon](https://github.com/Konkvon)  
-- Email: *(add your email)*  
-- LinkedIn: *(add your LinkedIn link)*
+- Email: *joaopedroorem@gmail.com*  
+- LinkedIn: *([add your LinkedIn link](https://www.linkedin.com/in/jo%C3%A3o-pedro-orem-de-moura-202524275/))*
