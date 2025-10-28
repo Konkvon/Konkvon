@@ -31,12 +31,6 @@
 
 ---
 
-## 📂 Featured Projects
-- ✅ **Task Manager App (Angular)** — CRUD tasks, responsive interface  
-- ❤️ **NGO Projects (APAE & IAKAP)** — internal management tools  
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
