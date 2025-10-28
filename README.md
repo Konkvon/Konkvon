@@ -1,6 +1,6 @@
 # 👋 Hey, I'm João Pedro Orem de Moura (Konkvon)
 
-🎓 **Front-end & Python Developer** — currently finishing *Técnico em Informática*.  
+🎓 **Front-end & Python Developer** — currently finishing *Sistema da informação*.  
 💻 Passionate about building efficient, scalable, and accessible web apps.
 
 ---
