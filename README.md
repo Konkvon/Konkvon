@@ -4,6 +4,7 @@
 ## 🤓 About Me
 🎓 Currently finishing *Sistema da informação*.  
 💻 Passionate about building efficient, scalable, and accessible web apps.
+
 🧠 Learning **Java & SpringBoot** for back-end development  
 ⚙️ Experienced with **Python**, **Django**, **Angular**, **SQLite**, and modern front-end design  
 💡 Built real projects for NGOs like **APAE** and **IAKAP**  
