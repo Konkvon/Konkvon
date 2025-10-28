@@ -32,7 +32,6 @@
 ---
 
 ## 📂 Featured Projects
-- 🧱 **Online Course Platform (Django)** — user management, lessons & payments  
 - ✅ **Task Manager App (Angular)** — CRUD tasks, responsive interface  
 - ❤️ **NGO Projects (APAE & IAKAP)** — internal management tools  
 
