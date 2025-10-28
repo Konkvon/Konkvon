@@ -50,4 +50,4 @@
 ## 📫 Contact
 - GitHub: [@Konkvon](https://github.com/Konkvon)  
 - Email: *joaopedroorem@gmail.com*  
-- LinkedIn: *(João Pedro Orem de Moura](https://www.linkedin.com/in/jo%C3%A3o-pedro-orem-de-moura-202524275/))*
+- LinkedIn: *(João Pedro Orem de Moura)(https://www.linkedin.com/in/jo%C3%A3o-pedro-orem-de-moura-202524275/))*
