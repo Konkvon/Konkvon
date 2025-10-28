@@ -5,7 +5,7 @@
 🎓 Currently finishing *Sistema da informação*.  
 💻 Passionate about building efficient, scalable, and accessible web apps.
 🧠 Learning **Java & SpringBoot** for back-end development  
-⚙️ Experienced with**Python**, **Django**, **Angular**, **SQLite**, and modern front-end design  
+⚙️ Experienced with **Python**, **Django**, **Angular**, **SQLite**, and modern front-end design  
 💡 Built real projects for NGOs like **APAE** and **IAKAP**  
 🎯 Goal: specialize in **Java back-end** and scalable system architecture
 
@@ -22,6 +22,13 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+## 📘 Currently Learning
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
