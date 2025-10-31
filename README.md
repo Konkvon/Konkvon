@@ -1,6 +1,5 @@
 # Hi, I'm João Pedro Orem de Moura (Konkvon)
 
-.
 ## 🤓 About Me
 🎓 Currently finishing *Sistema da informação*.  
 💻 Passionate about building efficient, scalable, and accessible web apps.
