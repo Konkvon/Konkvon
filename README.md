@@ -5,7 +5,7 @@
 💻 Passionate about building efficient, scalable, and accessible web apps.
 
 🧠 Learning **Java & SpringBoot** for back-end development  
-⚙️ Experienced with **Python**, **Django**, **Angular**, **SQLite**, and modern front-end design  
+⚙️ Experienced with **Python**, **Django**, **Angular**, and modern front-end design  
 💡 Built real projects for NGOs like **APAE** and **IAKAP**  
 🎯 Goal: specialize in **Java back-end** and scalable system architecture
 
